@@ -1,0 +1,149 @@
+.apple{
+    background:#F2F4F8;
+    height: 1500px;
+}
+.part1{
+text-align: center;
+}
+.part1 h2{
+font-size: 30px;
+color: black;
+}
+.part1 p{
+font-size: 20px;
+color:rgb(27, 25, 25);
+
+}
+.part2{
+    display: inline-block;
+    width: 100%;
+    text-align: center;
+
+}
+.part2 .no1{
+    margin-right: 5px;
+    margin-left: 5px;
+    display: inline-block;
+    padding: 5px;
+    border-radius: 15px;
+    text-align: center;
+    background:#ffffff;
+    width: 10%;
+
+}
+.part2 .no1 img{
+    margin: 15px;
+
+}
+.part2 .no1 p{
+    margin-top: 10px;
+
+}
+.part3{
+    display: inline-block;
+    width: 100%;
+    text-align: center;
+    margin-top: 20px;
+}
+.part3 .no1{
+    margin-right: 5px;
+    margin-left: 5px;
+    display: inline-block;
+    padding: 5px;
+    border-radius: 15px;
+    text-align: center;
+    background: #ffffff;
+    width: 10%;
+}
+.part3 .no1 img{
+    margin: 15px;
+}
+.part3 .no1 p{
+    margin-top: 10px;
+}
+.part4{
+    width: 100%;
+    margin-top: 20px;
+    text-align: center;
+   
+}
+
+.part4 .div1 {
+width: 20%;
+background: #ffffff;
+border-radius: 5px;
+padding: 10px;
+display: inline-block;
+margin-left: 10px;
+
+}
+.part4 .div1 img{
+width: 200px;
+
+}
+
+.part4 .div1 h4{
+text-align: left;
+}
+.part4 .div1 p{
+color: red;
+text-align: left;
+}
+.part5{
+    width: 100%;
+    margin-top: 20px;
+    text-align: center;
+}
+
+.part5 .div1{
+    width: 27%;
+    background: #ffffff;
+    border-radius: 20px 22px 15px 15px;
+    display: inline-block;
+    margin-left: 10px;
+   
+  
+  }
+  .part5 .div1 img{
+ 
+    width: 358px;
+    border-radius: 25px 25px 5px 5px;
+
+}
+    
+
+.part5 .div1 .cous{
+    margin-left: 20px;
+    text-align: left;
+    color: #df6812;
+}
+.part5 .div1 h4{
+    margin-top: 5px;
+    display: inline-block;
+    text-align: left;
+    margin-right: 110px;
+
+}
+.review{
+    margin-bottom: 30px;
+    margin-top: 15px;
+
+}
+.part5 .review .review1{
+    display: inline-block;
+    text-align: right;
+    font-size: 12px;
+    margin-right:12px;
+    color:#999Aa0;
+}br
+.part5 .review .review2{
+    text-align: right;
+    display: inline-block;
+    font-size: 12px;
+    padding-left: 100px;
+    color:#999Aa0;
+
+}
+.part5 .div1 .price{
+    margin-right: 190px;
+}
